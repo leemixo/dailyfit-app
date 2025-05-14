@@ -1,0 +1,10 @@
+import React from 'react';
+
+export default function App() {
+  return (
+    <div style={{ padding: '1rem' }}>
+      <h1>Mobile Login UI</h1>
+      <p>로그인 UI가 여기에 표시됩니다.</p>
+    </div>
+  );
+}
